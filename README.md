@@ -14,4 +14,4 @@
 
 
 
-[In case the .ipynb does not load, view the whole file here (HTML):](www.googledrive.com/host/0B9W7L1j7MW21R09vV2R0MUZXcjg)
+In case the .ipynb does not load, view the whole file here (HTML):www.googledrive.com/host/0B9W7L1j7MW21R09vV2R0MUZXcjg
